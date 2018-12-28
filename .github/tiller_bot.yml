@@ -1,0 +1,6 @@
+# Tiller Bot Configuration
+plugins:
+  wip:
+    enabled: true
+  commit_message:
+    enabled: true
